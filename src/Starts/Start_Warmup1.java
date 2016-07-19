@@ -76,7 +76,7 @@ public class Start_Warmup1 {
         if (icyHot.icyHot(112,-10)) System.out.println("Yes");
         else System.out.println("No");
 
-
+//        http://codingbat.com/prob/p144535
 
     }
 

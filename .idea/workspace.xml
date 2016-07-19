@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2084c602-8aec-46ec-9a60-68e8bac92b22" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CodingBat.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Starts/Start_Warmup1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/backAround.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/diff21.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/front22.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/front3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/frontBack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/icyHot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/makes10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/missingChar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/monkeyTrouble.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/nearHundred.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/notString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/or35.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/parrotTrouble.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/posNeg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/sleepIn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/startHi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Warmup1/sumDouble.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Starts/Start_Warmup1.java" afterPath="$PROJECT_DIR$/src/Starts/Start_Warmup1.java" />
     </list>
     <ignored path="CodingBat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Start_Warmup1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Start_Warmup1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+            <state relative-caret-position="415">
+              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icyHot.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="icyHot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Warmup1/icyHot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -714,21 +690,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Warmup1/icyHot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
