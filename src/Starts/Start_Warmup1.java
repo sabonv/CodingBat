@@ -15,6 +15,7 @@ public class Start_Warmup1 {
     public static void main(String[] args) throws IOException {
 
         //BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
 /*
 // Warmup-1 > sleepIn
         if (sleepIn.sleepIn(true, true)) System.out.println("Sleep");
@@ -68,6 +69,7 @@ public class Start_Warmup1 {
 //Warmup-1 > front22
         System.out.println(front22.front22("12345"));
 */
+
 //Warmup-1 > startHi
         if (startHi.startHi("hitest")) System.out.println("Hi");
         else System.out.println("Not Hi");
@@ -76,7 +78,14 @@ public class Start_Warmup1 {
         if (icyHot.icyHot(112,-10)) System.out.println("Yes");
         else System.out.println("No");
 
-//        http://codingbat.com/prob/p144535
+//Warmup-1 > in1020
+        if (in1020.in1020(112,10)) System.out.println("In range");
+        else System.out.println("Not in range");
+
+//Warmup-1 > hasTeen
+        if (hasTeen.hasTeen(112,10,19)) System.out.println("Has Teen");
+        else System.out.println("Not has Teen");
+
 
     }
 
