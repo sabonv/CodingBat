@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
+
 /**
  * Created by v.usov on 18.07.2016.
  */
@@ -68,7 +69,7 @@ public class Start_Warmup1 {
 
 //Warmup-1 > front22
         System.out.println(front22.front22("12345"));
-*/
+
 
 //Warmup-1 > startHi
         if (startHi.startHi("hitest")) System.out.println("Hi");
@@ -85,6 +86,36 @@ public class Start_Warmup1 {
 //Warmup-1 > hasTeen
         if (hasTeen.hasTeen(112,10,19)) System.out.println("Has Teen");
         else System.out.println("Not has Teen");
+
+//Warmup-1 > loneTeen
+        if (loneTeen.loneTeen(13,99)) System.out.println("Has one Teen");
+        else System.out.println("Has trouble");
+
+//Warmup-1 > delDel
+        System.out.println(delDel.delDel("adelaaaa"));
+
+//Warmup-1 > mixStart
+        if (mixStart.mixStart("dix fix")) System.out.println("Has MIX");
+        else System.out.println("No MIX");
+
+//Warmup-1 > startOz
+        System.out.println(startOz.startOz("ozymandias"));
+
+//Warmup-1 > intMax
+        System.out.println("MAX int "+intMax.intMax(1,2,3));
+
+//Warmup-1 > close10
+        System.out.println("Int close to 10: "+close10.close10(33,12));
+
+//Warmup-1 > in3050
+        if (in3050.in3050(35,39)) System.out.println("Gol");
+        else System.out.println("Fault");
+*/
+//Warmup-1 > max1020
+        System.out.println(max1020.max1020(19,2));
+
+
+
 
 
     }
