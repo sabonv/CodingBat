@@ -110,13 +110,23 @@ public class Start_Warmup1 {
 //Warmup-1 > in3050
         if (in3050.in3050(35,39)) System.out.println("Gol");
         else System.out.println("Fault");
-*/
+
 //Warmup-1 > max1020
         System.out.println(max1020.max1020(19,2));
 
+//Warmup-1 > stringE
+        if (stringE.stringE("Help me pleas")) System.out.println("We have E 1..3");
+        else System.out.println("We have E, but not as");
 
+//Warmup-1 > lastDigit
+        if(lastDigit.lastDigit(7,1313137)) System.out.println("Last digits is same");
+        else System.out.println("Last digits not same");
+*/
+//Warmup-1 > endUp
+        System.out.println(endUp.endUp("up 3 last chars"));
 
-
+//Warmup-1 > everyNth
+        System.out.println(everyNth.everyNth("Miracle", 2));
 
     }
 
