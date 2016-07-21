@@ -29,7 +29,7 @@
       <file leaf-file-name="Start_Warmup1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1513">
+            <state relative-caret-position="2210">
               <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -41,8 +41,8 @@
       <file leaf-file-name="Start_Warmup2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+            <state relative-caret-position="204">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -51,9 +51,27 @@
       <file leaf-file-name="Allt_ask_in_one.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="135" column="5" selection-start-line="135" selection-start-column="5" selection-end-line="135" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="431">
+              <caret line="152" column="45" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
+              <folding>
+                <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#frontTimes#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#countXX#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#doubleX#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#stringBits#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#stringSplosion#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#last2#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#arrayCount9#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#arrayFront9#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#array123#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#stringMatch#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#stringX#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#altPairs#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#stringYak#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#array667#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#noTriples#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="method#has271#0;class#Allt_ask_in_one#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,8 +139,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="786" />
+    <option name="width" value="1856" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -149,7 +167,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,8 +239,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -539,7 +557,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <frame x="-8" y="-8" width="1856" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -550,7 +568,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32883817" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -559,7 +577,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39786586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3973029" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -588,18 +606,6 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java</url>
-          <line>100</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java</url>
-          <line>126</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Warmup1/everyNth.java</url>
           <line>7</line>
@@ -607,13 +613,13 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="str.substring(i, i+3)" language="JAVA" custom="" />
-        <watch expression="str.length()-3" language="JAVA" custom="" />
-        <watch expression="str.substring(0,str.length()-1)" language="JAVA" custom="" />
+        <watch expression="nums[i]" language="JAVA" custom="" />
+        <watch expression="nums[i+1]" language="JAVA" custom="" />
+        <watch expression="nums[i+2]" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
@@ -622,6 +628,50 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#frontTimes#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#countXX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#doubleX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringBits#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringSplosion#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#last2#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#arrayCount9#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#arrayFront9#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#array123#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringMatch#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#altPairs#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringYak#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#array667#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#noTriples#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#has271#0;class#Allt_ask_in_one#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1513">
@@ -644,7 +694,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-          <folding />
+          <folding>
+            <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#frontTimes#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#countXX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#doubleX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringBits#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringSplosion#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#last2#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#arrayCount9#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#arrayFront9#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#array123#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringMatch#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#altPairs#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringYak#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#array667#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#noTriples#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#has271#0;class#Allt_ask_in_one#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -945,7 +1013,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
+        <state relative-caret-position="2210">
           <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -953,26 +1021,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="1906" column="0" selection-start-line="1906" selection-start-column="0" selection-end-line="1906" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="135" column="5" selection-start-line="135" selection-start-column="5" selection-end-line="135" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="431">
+          <caret line="152" column="45" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
+          <folding>
+            <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#frontTimes#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#countXX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#doubleX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringBits#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringSplosion#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#last2#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#arrayCount9#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#arrayFront9#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#array123#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringMatch#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringX#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#altPairs#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#stringYak#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#array667#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#noTriples#0;class#Allt_ask_in_one#0" expanded="false" />
+            <element signature="method#has271#0;class#Allt_ask_in_one#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+        <state relative-caret-position="204">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding />
         </state>
       </provider>

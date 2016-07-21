@@ -135,5 +135,31 @@ public class Allt_ask_in_one {
         return temp;
     }
 
+    public static int array667(int[] nums) {
+        int count = 0;
+        for (int i = 0; i < nums.length-1; i++) {
+            if (nums[i]==6 && (nums[i+1]==6 || nums[i+1]==7)) count++;
+        }
+        return count;
+    }
+
+    public static boolean noTriples(int[] nums) {
+        for (int i = 0; i < nums.length-2; i++) {
+            if (nums[i]==nums[i+1] && nums[i+1]==nums[i+2]) return false;
+        }
+        return true;
+    }
+
+    public static boolean has271(int[] nums) {
+        for (int i=0; i < (nums.length-2); i++) {
+            int val = nums[i];
+            if (nums[i+1] == (val + 5) &&
+                    Math.abs(nums[i+2] - (val-1)) <= 2)  return true;
+        }
+
+        return false;
+    }
+
+
 
 }
