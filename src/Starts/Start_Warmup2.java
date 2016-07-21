@@ -8,6 +8,7 @@ import Warmup2.*;
 public class Start_Warmup2 {
 
     public static void main(String[] args) {
+        int[] n ={2, 7, -1};
 /*
 //Warmup-2 > stringTimes
         System.out.println(Allt_ask_in_one.stringTimes("Hi",4));
@@ -32,7 +33,6 @@ public class Start_Warmup2 {
         System.out.println(Allt_ask_in_one.last2("hixxhi"));
 
 //Warmup-2 > arrayCount9
-        int[] n ={1,2,3,9,5,6,7,8,9};
         System.out.println(Allt_ask_in_one.arrayCount9(n));
 
 //Warmup-2 > arrayFront9
@@ -54,6 +54,17 @@ public class Start_Warmup2 {
 */
 //Warmup-2 > stringYak
         System.out.println(Allt_ask_in_one.stringYak("HiyakHi"));
+
+//Warmup-2 > array667
+        System.out.println("Pair 6's found "+Allt_ask_in_one.array667(n));
+
+//Warmup-2 > noTriples
+        if(Allt_ask_in_one.noTriples(n)) System.out.println("Not found triples");
+        else System.out.println("Catch triples");
+
+//Warmup-2 > has271
+        if(Allt_ask_in_one.has271(n)) System.out.println("Magic");
+        else System.out.println("No magic");
 
 
     }
