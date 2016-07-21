@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2084c602-8aec-46ec-9a60-68e8bac92b22" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Map1/All_task_in_one.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Starts/Start_Map1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Starts/Start_Warmup2.java" afterPath="$PROJECT_DIR$/src/Starts/Start_Warmup2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java" afterPath="$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java" />
     </list>
     <ignored path="CodingBat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,51 +26,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Start_Warmup1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
+      <file leaf-file-name="Start_Map1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Starts/Start_Map1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2210">
-              <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+            <state relative-caret-position="517">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#print#0;class#Start_Map1#0" expanded="false" />
+                <element signature="method#clear#0;class#Start_Map1#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Start_Warmup2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup2.java">
+      <file leaf-file-name="All_task_in_one.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Map1/All_task_in_one.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Allt_ask_in_one.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="152" column="45" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
+            <state relative-caret-position="272">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
-                <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#frontTimes#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#countXX#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#doubleX#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#stringBits#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#stringSplosion#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#last2#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#arrayCount9#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#arrayFront9#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#array123#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#stringMatch#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#stringX#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#altPairs#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#stringYak#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#array667#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#noTriples#0;class#Allt_ask_in_one#0" expanded="false" />
-                <element signature="method#has271#0;class#Allt_ask_in_one#0" expanded="false" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#mapBully#0;class#All_task_in_one#0" expanded="false" />
+                <element signature="method#mapShare#0;class#All_task_in_one#0" expanded="false" />
+                <element signature="method#mapAB#0;class#All_task_in_one#0" expanded="false" />
+                <element signature="method#topping1#0;class#All_task_in_one#0" expanded="false" />
+                <element signature="method#topping2#0;class#All_task_in_one#0" expanded="false" />
+                <element signature="method#topping3#0;class#All_task_in_one#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -133,6 +115,8 @@
         <option value="$PROJECT_DIR$/src/Warmup1/everyNth.java" />
         <option value="$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java" />
         <option value="$PROJECT_DIR$/src/Starts/Start_Warmup2.java" />
+        <option value="$PROJECT_DIR$/src/Starts/Start_Map1.java" />
+        <option value="$PROJECT_DIR$/src/Map1/All_task_in_one.java" />
       </list>
     </option>
   </component>
@@ -167,8 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,9 +219,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingBat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingBat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,7 +256,7 @@
       <recent name="C:\Users\v.usov\IdeaProjects\CodingBat\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Start_Warmup2">
+  <component name="RunManager" selected="Application.Start_Map1">
     <configuration default="false" name="Start_Warmup1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -283,6 +285,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Starts.Start_Warmup2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CodingBat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Start_Map1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Starts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Starts.Start_Map1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -529,14 +551,16 @@
       <listeners />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Start_Warmup1" />
       <item index="1" class="java.lang.String" itemvalue="Application.Start_Warmup2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Start_Map1" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Start_Warmup2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Start_Warmup1" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Start_Map1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Start_Warmup2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Start_Warmup1" />
       </list>
     </recent_temporary>
   </component>
@@ -613,39 +637,15 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="20" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="nums[i]" language="JAVA" custom="" />
-        <watch expression="nums[i+1]" language="JAVA" custom="" />
-        <watch expression="nums[i+2]" language="JAVA" custom="" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -1011,9 +1011,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
+        <state relative-caret-position="835">
           <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1021,10 +1022,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
+        <state relative-caret-position="663">
           <caret line="152" column="45" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
           <folding>
             <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
@@ -1050,9 +1050,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Starts/Start_Warmup2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map1/All_task_in_one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#mapBully#0;class#All_task_in_one#0" expanded="false" />
+            <element signature="method#mapShare#0;class#All_task_in_one#0" expanded="false" />
+            <element signature="method#mapAB#0;class#All_task_in_one#0" expanded="false" />
+            <element signature="method#topping1#0;class#All_task_in_one#0" expanded="false" />
+            <element signature="method#topping2#0;class#All_task_in_one#0" expanded="false" />
+            <element signature="method#topping3#0;class#All_task_in_one#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starts/Start_Map1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#print#0;class#Start_Map1#0" expanded="false" />
+            <element signature="method#clear#0;class#Start_Map1#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
