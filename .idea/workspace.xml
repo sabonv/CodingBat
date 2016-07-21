@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2084c602-8aec-46ec-9a60-68e8bac92b22" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Map1/All_task_in_one.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Starts/Start_Map1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Starts/Start_Map1.java" afterPath="$PROJECT_DIR$/src/Starts/Start_Map1.java" />
     </list>
     <ignored path="CodingBat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +28,11 @@
       <file leaf-file-name="Start_Map1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Starts/Start_Map1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+            <state relative-caret-position="481">
+              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#GetHeapSize#0;class#Start_Map1#0" expanded="false" />
                 <element signature="method#print#0;class#Start_Map1#0" expanded="false" />
                 <element signature="method#clear#0;class#Start_Map1#0" expanded="false" />
               </folding>
@@ -115,8 +115,8 @@
         <option value="$PROJECT_DIR$/src/Warmup1/everyNth.java" />
         <option value="$PROJECT_DIR$/src/Warmup2/Allt_ask_in_one.java" />
         <option value="$PROJECT_DIR$/src/Starts/Start_Warmup2.java" />
-        <option value="$PROJECT_DIR$/src/Starts/Start_Map1.java" />
         <option value="$PROJECT_DIR$/src/Map1/All_task_in_one.java" />
+        <option value="$PROJECT_DIR$/src/Starts/Start_Map1.java" />
       </list>
     </option>
   </component>
@@ -151,6 +151,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,7 +241,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -650,25 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding>
-            <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#frontTimes#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#countXX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#doubleX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringBits#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringSplosion#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#last2#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#arrayCount9#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#arrayFront9#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#array123#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringMatch#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#altPairs#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringYak#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#array667#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#noTriples#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#has271#0;class#Allt_ask_in_one#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,9 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1513">
           <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,25 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-          <folding>
-            <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#frontTimes#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#countXX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#doubleX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringBits#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringSplosion#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#last2#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#arrayCount9#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#arrayFront9#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#array123#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringMatch#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#altPairs#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringYak#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#array667#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#noTriples#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#has271#0;class#Allt_ask_in_one#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,9 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,9 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,9 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -792,9 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1016,9 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="835">
           <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1026,25 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="152" column="45" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
-          <folding>
-            <element signature="method#stringTimes#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#frontTimes#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#countXX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#doubleX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringBits#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringSplosion#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#last2#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#arrayCount9#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#arrayFront9#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#array123#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringMatch#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringX#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#altPairs#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#stringYak#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#array667#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#noTriples#0;class#Allt_ask_in_one#0" expanded="false" />
-            <element signature="method#has271#0;class#Allt_ask_in_one#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1052,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1074,10 +997,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Starts/Start_Map1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state relative-caret-position="481">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#GetHeapSize#0;class#Start_Map1#0" expanded="false" />
             <element signature="method#print#0;class#Start_Map1#0" expanded="false" />
             <element signature="method#clear#0;class#Start_Map1#0" expanded="false" />
           </folding>

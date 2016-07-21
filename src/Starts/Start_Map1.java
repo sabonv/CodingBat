@@ -47,7 +47,16 @@ public class Start_Map1 {
         Start_Map1.maps.put("salad", "candy");
         print(All_task_in_one.topping3(Start_Map1.maps));
 
+        GetHeapSize();
     }
+
+
+    public static void GetHeapSize(){
+//Get the jvm heap size.
+            long heapSize = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
+//Print the jvm heap size.
+            System.out.println("Heap Size(KB) = " + heapSize/1024);
+        }
 
     public static void print (Map<String, String> mapp) {
 
